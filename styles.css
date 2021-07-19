@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#image{
+    display: block;
+    height: auto;
+    max-width: 100%;
+    margin: 0 auto;
+}
+#img-div{
+    padding: 10px;
+}
+main {
+    margin: 20px 8px;
+    padding: 10px;
+    text-align: center;
+    line-height: 2rem;
+}
+#resume {
+    padding: 10px 20rem;
+    margin: 0 5rem;
+    line-height: 2rem;
+}
+#res-title {
+    text-align: center;
+}
+.list {
+    padding-left: 3rem;
+}
+.footer {
+    padding-left: 19rem;
+    margin: 1rem;
+}
